@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Asario (@Asario2)
 - 👀 I’m interested in Prgramming, Art and Photography
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me info@asario.de
 
 <!---
