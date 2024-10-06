@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Asario (@Asario2)
 - 👀 I’m interested in Prgramming, Art and Photography
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learn working with Larvel
 - 📫 How to reach me [Contactform on asario.de](https://www.asario.de/kontakt)
 
 <!---
