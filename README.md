@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming, Art and Photography
 - 🌱 I’m currently learn working with Laravel/VueJS
 - 🔗 U find my Blog on [https://asario.de](https://asario.de)
-- 📫 How to reach me: Contactform on [https://www.asario.de/home/contacts](https://asario.de/home/contacts)
+- 📫 How to reach me: Contactform on [https://asario.de/home/contacts](https://asario.de/home/contacts)
 
 
 <!---
