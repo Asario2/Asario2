@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Asario (@Asario2)
 - 👀 I’m interested in Programming, Art and Photography
-- 🌱 I’m currently working with Laravel/VueJS
+- 🌱 I am currently working with Laravel and VueJS.
 - 🔗 U find my Blog on [https://www.asario.de](https://www.asario.de)
 - 📫 How to reach me: Contactform on [https://www.asario.de/home/contacts](https://www.asario.de/home/contacts)
 
